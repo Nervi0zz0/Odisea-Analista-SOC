@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="diario de un cojo.png" alt="Logo Odisea Analista SOC - Nerviozzo" width="180"/> 
+  <img src="diario de un cojo.png" alt="Logo Odisea Analista SOC - Nerviozzo" width="180" style="border-radius: 50%; border: 3px solid yellow;"/> 
   </p>
 
 <h1 align="center">✨ Odisea-Analista-SOC ✨</h1>
