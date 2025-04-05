@@ -333,35 +333,38 @@ Enriquecer tus hallazgos con información externa.
 
 #### Canales de YouTube de Alto Valor (en español):
 
-* **El Pingüino de Mario:** Tutoriales de seguridad, hacking ético y herramientas.
-* **Hackavis:** Contenido orientado a forense y hacking ético.
-* **Securiters:** Ciberseguridad, protección de infraestructuras y análisis de amenazas.
-* **RINKU:** Hacking, ciberseguridad y análisis de vulnerabilidades.
-* *_(Añade aquí otros canales relevantes que conozcas)_*
+* **[El Pingüino de Mario](https://www.youtube.com/channel/UCGLfzfKRUsV6BzkrF1kJGsg)**: Tutoriales de seguridad, hacking ético y herramientas.
+* **[Hackavis](https://www.youtube.com/@Hackavis)**: Contenido orientado a forense y hacking ético. *(Verifica este enlace)*
+* **[Securiters](https://www.youtube.com/@Securiters)**: Ciberseguridad, protección de infraestructuras y análisis de amenazas. *(Verifica este enlace)*
+* **[RINKU](https://www.youtube.com/channel/UCYaeLvnLCNRJDrus8LEYaGw)**: Hacking, ciberseguridad y análisis de vulnerabilidades (`@rinkutech_`).
+
 
 #### Comunidades Online:
 
-* **Hacking Ético (Telegram, Discord, Foros):** Busca grupos activos. Las comunidades asociadas a canales de YouTube (como la de s4vitar) suelen ser muy dinámicas.
-* **Foros del Web (Sección Seguridad):** Comunidad en español activa para compartir conocimientos y dudas.
+* **Hacking Ético (Telegram, Discord, Foros):** Busca grupos activos. Las comunidades asociadas a canales de YouTube (como la de **[s4vitar](https://s4vitar.com/)** - busca su Discord/Telegram) suelen ser muy dinámicas. *(Nota: Los enlaces específicos a grupos de Telegram/Discord varían y es mejor buscarlos activamente)*.
+* **[Foros del Web (Sección Seguridad)](https://forosdelweb.com/f121/)**: Comunidad en español activa para compartir conocimientos y dudas.
 * **Reddit (Principalmente en inglés):**
-    * `/r/cybersecurity`: General, noticias, carreras.
-    * `/r/netsec`: Seguridad de redes, técnico.
-    * `/r/blueteamsec`: Enfocado en defensa.
-    * `/r/AskNetsec`: Ideal para preguntas de principiantes.
-    * Busca subreddits en español como `/r/ciberseguridad`.
-* **Comunidades de INCIBE:** Recursos, boletines y eventos del Instituto Nacional de Ciberseguridad de España.
-* **Servidores de Discord/Telegram:** Muchos creadores y grupos de estudio tienen sus propios servidores. Busca los de tus canales favoritos.
+    * **[/r/cybersecurity](https://www.reddit.com/r/cybersecurity/)**: General, noticias, carreras.
+    * **[/r/netsec](https://www.reddit.com/r/netsec/)**: Seguridad de redes, técnico.
+    * **[/r/blueteamsec](https://www.reddit.com/r/blueteamsec/)**: Enfocado en defensa.
+    * **[/r/AskNetsec](https://www.reddit.com/r/AskNetsec/)**: Ideal para preguntas de principiantes.
+    * Busca subreddits en español como **[/r/ciberseguridad](https://www.reddit.com/r/ciberseguridad/)**.
+* **[Comunidades de INCIBE](https://www.incibe.es/)**: Recursos, boletines y eventos del Instituto Nacional de Ciberseguridad de España. (Explora su web para secciones específicas).
+* **Servidores de Discord/Telegram:** Muchos creadores y grupos de estudio tienen sus propios servidores. Busca los de tus canales favoritos. *(Nota: Enlaces específicos varían)*.
 
 #### Fuentes de Noticias de Seguridad:
 
-* **INCIBE (Protege tu empresa / OSI / CERT-SI):** Avisos, guías y alertas relevantes para España y Europa (en español).
-* **The Hacker News:** Noticias globales sobre brechas, vulnerabilidades, malware (en inglés).
-* **Bleeping Computer:** Amenazas actuales, ransomware, guías técnicas (en inglés).
-* **Security Week:** Noticias y análisis de la industria (en inglés).
-* **Wired (Security Section):** Artículos de investigación de alta calidad (en inglés).
-* **El Hacker Net:** Portal clásico de noticias y artículos en español.
-* **Flu Project (Blog):** Noticias y análisis de actualidad en español.
-* **CISA Alerts (US Gov):** Alertas sobre vulnerabilidades críticas y amenazas activas (en inglés).
+* **INCIBE:** Fuentes clave del Instituto Nacional de Ciberseguridad (España).
+    * **[Protege tu empresa](https://www.incibe.es/protege-tu-empresa)**
+    * **[Oficina de Seguridad del Internauta (OSI)](https://www.osi.es/es)**
+    * **[Avisos de Seguridad (CERT-SI)](https://www.incibe.es/incibe-cert/avisos)**
+* **[The Hacker News](https://thehackernews.com/)**: Noticias globales sobre brechas, vulnerabilidades, malware (en inglés).
+* **[Bleeping Computer](https://www.bleepingcomputer.com/)**: Amenazas actuales, ransomware, guías técnicas (en inglés).
+* **[Security Week](https://www.securityweek.com/)**: Noticias y análisis de la industria (en inglés).
+* **[Wired (Security Section)](https://www.wired.com/category/security/)**: Artículos de investigación de alta calidad (en inglés).
+* **[El Hacker Net](https://www.elhacker.net/)**: Portal clásico de noticias y artículos en español.
+* **[Flu Project (Blog)](https://www.flu-project.com/)**: Noticias y análisis de actualidad en español.
+* **[CISA Alerts (US Gov)](https://www.cisa.gov/news-events/cybersecurity-advisories)**: Alertas sobre vulnerabilidades críticas y amenazas activas (en inglés).
 
 ---
 
@@ -432,7 +435,7 @@ Creemos juntos la mejor guía posible para la comunidad hispanohablante.
 * Si tienes sugerencias, correcciones o quieres añadir recursos, ¡tu contribución es bienvenida!
 * Por favor, abre un **Issue** para discutir cambios o proponer nuevas secciones.
 * Si quieres añadir contenido directamente, haz un **Fork** del repositorio, realiza tus cambios y envía un **Pull Request**.
-* _(Próximamente: Guía detallada en `CONTRIBUTING.md`)_
+* _(Guía detallada en `CONTRIBUTING.md`)_
 
 ---
 
