@@ -1,14 +1,35 @@
-# ✨ Odisea-Analista-SOC ✨
+<p align="center">
+  <img src="diario de un cojo.png" alt="Logo Odisea Analista SOC - Nerviozzo" width="180"/> 
+  </p>
 
-**La guía definitiva para iniciar tu odisea como Analista SOC Nivel 1.**
+<h1 align="center">✨ Odisea-Analista-SOC ✨</h1>
 
-Recursos, herramientas, labs, estrategias de aprendizaje y consejos prácticos para forjar tu camino en la ciberseguridad defensiva. Un proyecto vivo para la comunidad hispanohablante.
+<p align="center">
+  <strong>La guía definitiva para iniciar tu odisea como Analista SOC Nivel 1.</strong>
+  <br />
+  <i>Recursos, herramientas, labs, estrategias de aprendizaje y consejos prácticos para forjar tu camino en la ciberseguridad defensiva.</i>
+  <br />
+  Un proyecto vivo para la comunidad hispanohablante.
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Estado](https://img.shields.io/badge/estado-en%20construcción%20activa-green.svg)](https://github.com/Nervi0zz0/Odisea-Analista-SOC)
-[![GitHub Repo stars](https://img.shields.io/github/stars/Nervi0zz0/Odisea-Analista-SOC?style=social)](https://github.com/Nervi0zz0/Odisea-Analista-SOC/stargazers)
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
+  </a>
+  <a href="https://github.com/Nervi0zz0/Odisea-Analista-SOC">
+    <img src="https://img.shields.io/badge/estado-en%20construcción%20activa-green.svg" alt="Estado: En construcción activa"/>
+  </a>
+  <a href="https://github.com/Nervi0zz0/Odisea-Analista-SOC/stargazers">
+    <img src="https://img.shields.io/github/stars/Nervi0zz0/Odisea-Analista-SOC?style=social" alt="GitHub Repo stars"/>
+  </a>
+</p>
 
-> **Creado por [Nervi0zz0](https://www.linkedin.com/in/jmam84/)** - _"La guía que nadie pidió, pero todos necesitan (o no)"_
+<p align="center">
+  Creado por <a href="https://www.linkedin.com/in/jmam84/"><strong>Nervi0zz0 </strong></a>
+  <br/>
+  <em>"La guía que nadie pidió, pero todos necesitan (o no)"</em>
+</p>
+
 
 ---
 
